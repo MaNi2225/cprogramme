@@ -1,0 +1,21 @@
+1)
+Enter String: Hello Mani
+H
+e
+l
+l
+o
+
+M
+a
+n
+i
+
+2)
+Enter Name-1: Mani
+Enter Name-2: Mani
+Response: Both names are same
+
+Enter Name-1: Mani
+Enter Name-2: Madhu
+Response: Both names are not same
